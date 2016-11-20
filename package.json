@@ -1,0 +1,19 @@
+{
+  "name": "beyond_the_starlight",
+  "version": "1.0.0",
+  "description": "仕事用ツール群 -------------- 見つけたい見つけたい",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLXIBLUE/beyond_the_starlight.git"
+  },
+  "author": "FLXIBLUE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FLXIBLUE/beyond_the_starlight/issues"
+  },
+  "homepage": "https://github.com/FLXIBLUE/beyond_the_starlight#readme"
+}
