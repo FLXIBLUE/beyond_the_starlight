@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FLXIBLUE/beyond_the_starlight/issues"
   },
-  "homepage": "https://github.com/FLXIBLUE/beyond_the_starlight#readme"
+  "homepage": "https://github.com/FLXIBLUE/beyond_the_starlight#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
